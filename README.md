@@ -1,2 +1,2 @@
-# home
-This repo is the official home of Rack. It's a great starting point to find about projects, culture and community.
+# Rack Home
+This repository is a starting point to learn about and engage in Rack and Rack open source projects.
